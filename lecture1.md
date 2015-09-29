@@ -37,7 +37,7 @@
 - new industrial revolution meant new patrons with new money and intentions, so old patrons that valued those old ways no longer can support those old ways. 
 - the industrial revolution created new problems and new building types (like factories, office buildings) because that's where the money was at.
     - new money = new motivation and new people who want different problem solved. 
-- these new types had no precedent, they are a rupture from history, architects couldn't just go copy the greeks to build a train station because there was no train stations to copy. They were then creating things without precedent, using new technologies that never existed before. they were, in many ways, breaking away from tradition because tradition simply didn't apply. New technology created for new opportunities for solutions (creating huge open spaces the span of a train because of steel) and new problems that needed to be solved (the train needing to board ppl).
+- these new types had no precedent, they are a rupture from history. architects couldn't just go copy the greeks to build a train station because there was no train stations to copy. This meant that they were creating things without precedent because using new technologies that never existed before. they were, in many ways, breaking away from tradition because tradition simply didn't apply. New technology created for new opportunities for solutions (creating huge open spaces the span of a train because of steel) and new problems that needed to be solved (the train needing to board ppl).
     - new spatialities (the spaces created: wide open concept spaces with materials that can support weight vs narrow corridors constricted because of brick)
     - new program types (what the building does)
     - new technologies that has no precedent, we have had never seem them ever before. 
@@ -71,3 +71,6 @@
 
 - we have this new technologies but archaic traditions, what do we do about with these new materials. this is what the modernist asked themselves. 
 
+### Modernism is:
+
+Modernism isn't a style. Its the intentions and the type of goals you are trying to achieve. A style could be a goal in how someone could sat they are trying to achieve a particular look but an ideology and the ideology of modernism is their goals they are trying to achieve in what they make.
